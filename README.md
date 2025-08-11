@@ -1,4 +1,3 @@
-# PV-Forcast-Project
 
 # An Advanced Deep Learning-Based Approach for Predicting Photovoltaic Cell Generation
 
